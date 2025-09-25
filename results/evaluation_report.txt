@@ -1,0 +1,44 @@
+============================================================
+OCO ALGORITHM EVALUATION REPORT
+============================================================
+
+PERFORMANCE SUMMARY:
+----------------------------------------
+
+R-OBD:
+  Total Cost: 0.230006
+  Average Cost: 0.009584
+  Hitting Cost: 0.028050
+  Switching Cost: 0.201957
+  Cost Ratio: 0.139
+
+ML Predictor:
+  Total Cost: 0.301922
+  Average Cost: 0.012580
+  Hitting Cost: 0.178403
+  Switching Cost: 0.123518
+  Cost Ratio: 1.444
+
+Expert-Calibrated:
+  Total Cost: 0.241632
+  Average Cost: 0.010068
+  Hitting Cost: 0.081845
+  Switching Cost: 0.159787
+  Cost Ratio: 0.512
+
+Adaptive Hybrid:
+  Total Cost: 0.236478
+  Average Cost: 0.009853
+  Hitting Cost: 0.072129
+  Switching Cost: 0.164350
+  Cost Ratio: 0.439
+
+BEST ALGORITHM: R-OBD
+Best Total Cost: 0.230006
+
+PERFORMANCE COMPARISON:
+----------------------------------------
+R-OBD: +0.00% vs best
+ML Predictor: +31.27% vs best
+Expert-Calibrated: +5.05% vs best
+Adaptive Hybrid: +2.81% vs best
